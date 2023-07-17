@@ -1,2 +1,8 @@
 # DEVELOPMENT.md
-Keeps track of revisions to the DEVELOPMENT.md template
+
+## Table of Contents
+
+### Development Team Agreement Decisions
+### Detailed Usage Instructions
+### Developer Cookbook
+### Lightweight Architectural Decision Records
